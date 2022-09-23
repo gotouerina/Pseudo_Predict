@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 def jiajiyin(input):
     with open (input,"r") as a:
