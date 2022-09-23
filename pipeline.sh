@@ -51,3 +51,5 @@ bedtools merge -i gff1.input.1.bed  -c 1,4 -o count > $gff1.out1.bed
 
 ##最终输出
 cat $gff1.out1.bed | grep 'pseudo' | sed  's/pseudo\,//g'  > $gff1.out2.bed
+
+###produced by kogoori masaki
