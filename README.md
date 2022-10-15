@@ -2,7 +2,7 @@
 
 Pseudo Predict based on genblastA and genewise
 
-input：protein and DNA fasta format fiel ，gff format annotion file
+input：protein and DNA fasta format files ，gff format annotion file
 
 conda install -c bioconda genblasta
 
