@@ -1,8 +1,8 @@
 # Pseudo_Predict
 
-基于genblastA和genewise的假基因预测
+Pseudo Predict based on genblastA and genewise
 
-输入文件：蛋白质和DNA的fasta格式文件，对应的注释gff格式文件
+input：protein and DNA fasta format fiel ，gff format annotion file
 
 conda install -c bioconda genblasta
 
@@ -11,7 +11,7 @@ conda install -c bioconda wise2
 
 
 
-参考文献：
+Ref：
 
 https://www.sciencedirect.com/science/article/pii/S2590346222002590?via%3Dihub
 
