@@ -10,6 +10,8 @@ conda install -c bioconda genblasta
 conda install -c bioconda wise2
 
 
+the Rscript is used to pint a qqimg of the paralog genes.
+
 
 Ref：
 
