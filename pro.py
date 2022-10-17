@@ -1,4 +1,3 @@
-#!/bin/bash
 
 def main(input):
     with open(input,"r") as f:
