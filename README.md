@@ -4,10 +4,10 @@ Pseudo Predict based on genblastA and genewise
 
 input：protein and DNA fasta format files ，gff format annotion file
 
-conda install -c bioconda genblasta
+    conda install -c bioconda genblasta
 
 
-conda install -c bioconda wise2
+    conda install -c bioconda wise2
 
 
 the Rscript is used to pint a qqimg of the paralog genes.
